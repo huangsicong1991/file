@@ -1,0 +1,639 @@
+{
+	"g1" : {
+		"id": "1",
+		"src": "../img/goodList-1.jpg",
+		"txt": "蘑菇良品 清新甜美碎花连衣裙",
+		"price": "<i>￥</i> 85.44",
+		"discount": "4.5 折",
+		"fanNum": "6"
+	},
+	"g2" : {
+		"id": "2",
+		"src": "../img/goodList-2.jpg",
+		"txt": "蘑菇良品 复古碎花连衣裙",
+		"price": "<i>￥</i> 84.48",
+		"discount": "4.4 折",
+		"fanNum": "149"
+	},
+	"g3" : {
+		"id": "3",
+		"src": "../img/goodList-3.jpg",
+		"txt": "蘑菇良品 清新格子短裙连衣裙",
+		"price": "<i>￥</i> 65.10",
+		"discount": "4.2 折",
+		"fanNum": "78"
+	},
+	"g4" : {
+		"id": "4",
+		"src": "../img/goodList-4.jpg",
+		"txt": "蘑菇良品 学院风印花休闲短裤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g5" : {
+		"id": "5",
+		"src": "../img/goodList-5.jpg",
+		"txt": "蘑菇良品 条纹2件套连衣裙",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.8 折",
+		"fanNum": "414"
+	},
+	"g6" : {
+		"id": "6",
+		"src": "../img/goodList-6.jpg",
+		"txt": "蘑菇良品 流苏拼接舒适短袖T恤",
+		"price": "<i>￥</i> 77.07",
+		"discount": "4.7 折",
+		"fanNum": "58"
+	},
+	"g7" : {
+		"id": "7",
+		"src": "../img/goodList-7.jpg",
+		"txt": "蘑菇良品 海军风白领带条纹连衣",
+		"price": "<i>￥</i> 98.08",
+		"discount": "4.9 折",
+		"fanNum": "245"
+	},
+	"g8" : {
+		"id": "8",
+		"src": "../img/goodList-8.jpg",
+		"txt": "蘑菇良品 拼接洞洞纯色短袖T恤",
+		"price": "<i>￥</i> 84.07",
+		"discount": "4.1 折",
+		"fanNum": "260"
+	},
+	"g9" : {
+		"id": "9",
+		"src": "../img/goodList-9.jpg",
+		"txt": "蘑菇良品 可爱粉红药丸印花短袖",
+		"price": "<i>￥</i> 62.07",
+		"discount": "4.7 折",
+		"fanNum": "189"
+	},
+	"g10" : {
+		"id": "10",
+		"src": "../img/goodList-10.jpg",
+		"txt": "蘑菇良品 民族风印花连衣裙",
+		"price": "<i>￥</i> 42.07",
+		"discount": "4.1 折",
+		"fanNum": "376"
+	},
+	"g11" : {
+		"id": "11",
+		"src": "../img/goodList-11.jpg",
+		"txt": "蘑菇良品 百搭基础款条纹短袖T",
+		"price": "<i>￥</i> 72.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g12" : {
+		"id": "12",
+		"src": "../img/goodList-12.jpg",
+		"txt": "蘑菇良品 简约竖条纹衬衫",
+		"price": "<i>￥</i> 42.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g13" : {
+		"id": "13",
+		"src": "../img/goodList-13.jpg",
+		"txt": "蘑菇良品 兔先生印花短袖T恤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g14" : {
+		"id": "14",
+		"src": "../img/goodList-14.jpg",
+		"txt": "蘑菇良品 条纹印花可爱猫咪短袖",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "180"
+	},
+	"g15" : {
+		"id": "15",
+		"src": "../img/goodList-15.jpg",
+		"txt": "蘑菇良品 民族风露肩短袖T恤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "146"
+	},
+	"g16" : {
+		"id": "16",
+		"src": "../img/goodList-16.jpg",
+		"txt": "蘑菇良品 简约休闲款连衣裙",
+		"price": "<i>￥</i> 82.07",
+		"discount": "4.1 折",
+		"fanNum": "678"
+	},
+	"g17" : {
+		"id": "17",
+		"src": "../img/goodList-17.jpg",
+		"txt": "蘑菇良品 印花甜美荷叶边短袖T",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "145"
+	},
+	"g18" : {
+		"id": "18",
+		"src": "../img/goodList-18.jpg",
+		"txt": "蘑菇良品 民族风刺绣连衣裙",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "673"
+	},
+	"g19" : {
+		"id": "19",
+		"src": "../img/goodList-19.jpg",
+		"txt": "蘑菇良品 纯色荷叶边连衣裙",
+		"price": "<i>￥</i> 62.07",
+		"discount": "4.9 折",
+		"fanNum": "340"
+	},
+	"g20" : {
+		"id": "20",
+		"src": "../img/goodList-20.jpg",
+		"txt": "蘑菇良品 竖条纹宽松连衣裙",
+		"price": "<i>￥</i> 82.07",
+		"discount": "4.1 折",
+		"fanNum": "640"
+	},"g21" : {
+		"id": "21",
+		"src": "../img/goodList-21.jpg",
+		"txt": "蘑菇良品 清新甜美碎花连衣裙",
+		"price": "<i>￥</i> 85.44",
+		"discount": "4.5 折",
+		"fanNum": "6"
+	},
+	"g22" : {
+		"id": "22",
+		"src": "../img/goodList-22.jpg",
+		"txt": "蘑菇良品 复古碎花连衣裙",
+		"price": "<i>￥</i> 84.48",
+		"discount": "4.4 折",
+		"fanNum": "149"
+	},
+	"g23" : {
+		"id": "23",
+		"src": "../img/goodList-23.jpg",
+		"txt": "蘑菇良品 清新格子短裙连衣裙",
+		"price": "<i>￥</i> 65.10",
+		"discount": "4.2 折",
+		"fanNum": "78"
+	},
+	"g24" : {
+		"id": "24",
+		"src": "../img/goodList-24.jpg",
+		"txt": "蘑菇良品 学院风印花休闲短裤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g25" : {
+		"id": "25",
+		"src": "../img/goodList-25.jpg",
+		"txt": "蘑菇良品 条纹2件套连衣裙",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.8 折",
+		"fanNum": "414"
+	},
+	"g26" : {
+		"id": "26",
+		"src": "../img/goodList-26.jpg",
+		"txt": "蘑菇良品 流苏拼接舒适短袖T恤",
+		"price": "<i>￥</i> 77.07",
+		"discount": "4.7 折",
+		"fanNum": "58"
+	},
+	"g27" : {
+		"id": "27",
+		"src": "../img/goodList-27.jpg",
+		"txt": "蘑菇良品 海军风白领带条纹连衣",
+		"price": "<i>￥</i> 98.08",
+		"discount": "4.9 折",
+		"fanNum": "245"
+	},
+	"g28" : {
+		"id": "28",
+		"src": "../img/goodList-28.jpg",
+		"txt": "蘑菇良品 拼接洞洞纯色短袖T恤",
+		"price": "<i>￥</i> 84.07",
+		"discount": "4.1 折",
+		"fanNum": "260"
+	},
+	"g29" : {
+		"id": "29",
+		"src": "../img/goodList-29.jpg",
+		"txt": "蘑菇良品 可爱粉红药丸印花短袖",
+		"price": "<i>￥</i> 62.07",
+		"discount": "4.7 折",
+		"fanNum": "189"
+	},
+	"g30" : {
+		"id": "30",
+		"src": "../img/goodList-30.jpg",
+		"txt": "蘑菇良品 民族风印花连衣裙",
+		"price": "<i>￥</i> 42.07",
+		"discount": "4.1 折",
+		"fanNum": "376"
+	},
+	"g31" : {
+		"id": "31",
+		"src": "../img/goodList-31.jpg",
+		"txt": "蘑菇良品 百搭基础款条纹短袖T",
+		"price": "<i>￥</i> 72.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g32" : {
+		"id": "32",
+		"src": "../img/goodList-32.jpg",
+		"txt": "蘑菇良品 简约竖条纹衬衫",
+		"price": "<i>￥</i> 42.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g33" : {
+		"id": "33",
+		"src": "../img/goodList-33.jpg",
+		"txt": "蘑菇良品 兔先生印花短袖T恤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g34" : {
+		"id": "34",
+		"src": "../img/goodList-34.jpg",
+		"txt": "蘑菇良品 条纹印花可爱猫咪短袖",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "180"
+	},
+	"g35" : {
+		"id": "35",
+		"src": "../img/goodList-35.jpg",
+		"txt": "蘑菇良品 民族风露肩短袖T恤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "146"
+	},
+	"g36" : {
+		"id": "36",
+		"src": "../img/goodList-36.jpg",
+		"txt": "蘑菇良品 简约休闲款连衣裙",
+		"price": "<i>￥</i> 82.07",
+		"discount": "4.1 折",
+		"fanNum": "678"
+	},
+	"g37" : {
+		"id": "37",
+		"src": "../img/goodList-37.jpg",
+		"txt": "蘑菇良品 印花甜美荷叶边短袖T",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "145"
+	},
+	"g38" : {
+		"id": "38",
+		"src": "../img/goodList-38.jpg",
+		"txt": "蘑菇良品 民族风刺绣连衣裙",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "673"
+	},
+	"g39" : {
+		"id": "39",
+		"src": "../img/goodList-39.jpg",
+		"txt": "蘑菇良品 纯色荷叶边连衣裙",
+		"price": "<i>￥</i> 62.07",
+		"discount": "4.9 折",
+		"fanNum": "340"
+	},
+	"g40" : {
+		"id": "40",
+		"src": "../img/goodList-40.jpg",
+		"txt": "蘑菇良品 竖条纹宽松连衣裙",
+		"price": "<i>￥</i> 82.07",
+		"discount": "4.1 折",
+		"fanNum": "640"
+	},"g41" : {
+		"id": "41",
+		"src": "../img/goodList-41.jpg",
+		"txt": "蘑菇良品 清新甜美碎花连衣裙",
+		"price": "<i>￥</i> 85.44",
+		"discount": "4.5 折",
+		"fanNum": "6"
+	},
+	"g42" : {
+		"id": "42",
+		"src": "../img/goodList-42.jpg",
+		"txt": "蘑菇良品 复古碎花连衣裙",
+		"price": "<i>￥</i> 84.48",
+		"discount": "4.4 折",
+		"fanNum": "149"
+	},
+	"g43" : {
+		"id": "43",
+		"src": "../img/goodList-43.jpg",
+		"txt": "蘑菇良品 清新格子短裙连衣裙",
+		"price": "<i>￥</i> 65.10",
+		"discount": "4.2 折",
+		"fanNum": "78"
+	},
+	"g44" : {
+		"id": "44",
+		"src": "../img/goodList-44.jpg",
+		"txt": "蘑菇良品 学院风印花休闲短裤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g45" : {
+		"id": "45",
+		"src": "../img/goodList-45.jpg",
+		"txt": "蘑菇良品 条纹2件套连衣裙",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.8 折",
+		"fanNum": "414"
+	},
+	"g46" : {
+		"id": "46",
+		"src": "../img/goodList-46.jpg",
+		"txt": "蘑菇良品 流苏拼接舒适短袖T恤",
+		"price": "<i>￥</i> 77.07",
+		"discount": "4.7 折",
+		"fanNum": "58"
+	},
+	"g47" : {
+		"id": "47",
+		"src": "../img/goodList-47.jpg",
+		"txt": "蘑菇良品 海军风白领带条纹连衣",
+		"price": "<i>￥</i> 98.08",
+		"discount": "4.9 折",
+		"fanNum": "245"
+	},
+	"g48" : {
+		"id": "48",
+		"src": "../img/goodList-48.jpg",
+		"txt": "蘑菇良品 拼接洞洞纯色短袖T恤",
+		"price": "<i>￥</i> 84.07",
+		"discount": "4.1 折",
+		"fanNum": "260"
+	},
+	"g49" : {
+		"id": "49",
+		"src": "../img/goodList-49.jpg",
+		"txt": "蘑菇良品 可爱粉红药丸印花短袖",
+		"price": "<i>￥</i> 62.07",
+		"discount": "4.7 折",
+		"fanNum": "189"
+	},
+	"g50" : {
+		"id": "50",
+		"src": "../img/goodList-50.jpg",
+		"txt": "蘑菇良品 民族风印花连衣裙",
+		"price": "<i>￥</i> 42.07",
+		"discount": "4.1 折",
+		"fanNum": "376"
+	},
+	"g51" : {
+		"id": "51",
+		"src": "../img/goodList-51.jpg",
+		"txt": "蘑菇良品 百搭基础款条纹短袖T",
+		"price": "<i>￥</i> 72.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g52" : {
+		"id": "52",
+		"src": "../img/goodList-52.jpg",
+		"txt": "蘑菇良品 简约竖条纹衬衫",
+		"price": "<i>￥</i> 42.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g53" : {
+		"id": "53",
+		"src": "../img/goodList-53.jpg",
+		"txt": "蘑菇良品 兔先生印花短袖T恤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g54" : {
+		"id": "54",
+		"src": "../img/goodList-54.jpg",
+		"txt": "蘑菇良品 条纹印花可爱猫咪短袖",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "180"
+	},
+	"g55" : {
+		"id": "55",
+		"src": "../img/goodList-55.jpg",
+		"txt": "蘑菇良品 民族风露肩短袖T恤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "146"
+	},
+	"g56" : {
+		"id": "56",
+		"src": "../img/goodList-56.jpg",
+		"txt": "蘑菇良品 简约休闲款连衣裙",
+		"price": "<i>￥</i> 82.07",
+		"discount": "4.1 折",
+		"fanNum": "678"
+	},
+	"g57" : {
+		"id": "57",
+		"src": "../img/goodList-57.jpg",
+		"txt": "蘑菇良品 印花甜美荷叶边短袖T",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "145"
+	},
+	"g58" : {
+		"id": "58",
+		"src": "../img/goodList-58.jpg",
+		"txt": "蘑菇良品 民族风刺绣连衣裙",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "673"
+	},
+	"g59" : {
+		"id": "59",
+		"src": "../img/goodList-59.jpg",
+		"txt": "蘑菇良品 纯色荷叶边连衣裙",
+		"price": "<i>￥</i> 62.07",
+		"discount": "4.9 折",
+		"fanNum": "340"
+	},
+	"g60" : {
+		"id": "60",
+		"src": "../img/goodList-60.jpg",
+		"txt": "蘑菇良品 竖条纹宽松连衣裙",
+		"price": "<i>￥</i> 82.07",
+		"discount": "4.1 折",
+		"fanNum": "640"
+	},"g61" : {
+		"id": "61",
+		"src": "../img/goodList-61.jpg",
+		"txt": "蘑菇良品 清新甜美碎花连衣裙",
+		"price": "<i>￥</i> 85.44",
+		"discount": "4.5 折",
+		"fanNum": "6"
+	},
+	"g62" : {
+		"id": "62",
+		"src": "../img/goodList-62.jpg",
+		"txt": "蘑菇良品 复古碎花连衣裙",
+		"price": "<i>￥</i> 84.48",
+		"discount": "4.4 折",
+		"fanNum": "149"
+	},
+	"g63" : {
+		"id": "63",
+		"src": "../img/goodList-63.jpg",
+		"txt": "蘑菇良品 清新格子短裙连衣裙",
+		"price": "<i>￥</i> 65.10",
+		"discount": "4.2 折",
+		"fanNum": "78"
+	},
+	"g64" : {
+		"id": "64",
+		"src": "../img/goodList-64.jpg",
+		"txt": "蘑菇良品 学院风印花休闲短裤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g65" : {
+		"id": "65",
+		"src": "../img/goodList-65.jpg",
+		"txt": "蘑菇良品 条纹2件套连衣裙",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.8 折",
+		"fanNum": "414"
+	},
+	"g66" : {
+		"id": "66",
+		"src": "../img/goodList-66.jpg",
+		"txt": "蘑菇良品 流苏拼接舒适短袖T恤",
+		"price": "<i>￥</i> 77.07",
+		"discount": "4.7 折",
+		"fanNum": "58"
+	},
+	"g67" : {
+		"id": "67",
+		"src": "../img/goodList-67.jpg",
+		"txt": "蘑菇良品 海军风白领带条纹连衣",
+		"price": "<i>￥</i> 98.08",
+		"discount": "4.9 折",
+		"fanNum": "245"
+	},
+	"g68" : {
+		"id": "68",
+		"src": "../img/goodList-68.jpg",
+		"txt": "蘑菇良品 拼接洞洞纯色短袖T恤",
+		"price": "<i>￥</i> 84.07",
+		"discount": "4.1 折",
+		"fanNum": "260"
+	},
+	"g69" : {
+		"id": "69",
+		"src": "../img/goodList-69.jpg",
+		"txt": "蘑菇良品 可爱粉红药丸印花短袖",
+		"price": "<i>￥</i> 62.07",
+		"discount": "4.7 折",
+		"fanNum": "189"
+	},
+	"g70" : {
+		"id": "70",
+		"src": "../img/goodList-70.jpg",
+		"txt": "蘑菇良品 民族风印花连衣裙",
+		"price": "<i>￥</i> 42.07",
+		"discount": "4.1 折",
+		"fanNum": "376"
+	},
+	"g71" : {
+		"id": "71",
+		"src": "../img/goodList-71.jpg",
+		"txt": "蘑菇良品 百搭基础款条纹短袖T",
+		"price": "<i>￥</i> 72.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g72" : {
+		"id": "72",
+		"src": "../img/goodList-72.jpg",
+		"txt": "蘑菇良品 简约竖条纹衬衫",
+		"price": "<i>￥</i> 42.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g73" : {
+		"id": "73",
+		"src": "../img/goodList-73.jpg",
+		"txt": "蘑菇良品 兔先生印花短袖T恤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "100"
+	},
+	"g74" : {
+		"id": "74",
+		"src": "../img/goodList-74.jpg",
+		"txt": "蘑菇良品 条纹印花可爱猫咪短袖",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "180"
+	},
+	"g75" : {
+		"id": "75",
+		"src": "../img/goodList-75.jpg",
+		"txt": "蘑菇良品 民族风露肩短袖T恤",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "146"
+	},
+	"g76" : {
+		"id": "76",
+		"src": "../img/goodList-76.jpg",
+		"txt": "蘑菇良品 简约休闲款连衣裙",
+		"price": "<i>￥</i> 82.07",
+		"discount": "4.1 折",
+		"fanNum": "678"
+	},
+	"g77" : {
+		"id": "77",
+		"src": "../img/goodList-77.jpg",
+		"txt": "蘑菇良品 印花甜美荷叶边短袖T",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "145"
+	},
+	"g78" : {
+		"id": "78",
+		"src": "../img/goodList-78.jpg",
+		"txt": "蘑菇良品 民族风刺绣连衣裙",
+		"price": "<i>￥</i> 52.07",
+		"discount": "4.1 折",
+		"fanNum": "673"
+	},
+	"g79" : {
+		"id": "79",
+		"src": "../img/goodList-79.jpg",
+		"txt": "蘑菇良品 纯色荷叶边连衣裙",
+		"price": "<i>￥</i> 62.07",
+		"discount": "4.9 折",
+		"fanNum": "340"
+	},
+	"g80" : {
+		"id": "80",
+		"src": "../img/goodList-80.jpg",
+		"txt": "蘑菇良品 竖条纹宽松连衣裙",
+		"price": "<i>￥</i> 82.07",
+		"discount": "4.1 折",
+		"fanNum": "640"
+	}
+}

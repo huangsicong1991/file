@@ -1,0 +1,391 @@
+/* 这里是右侧侧边栏开始 */
+.mgj_rightbar{
+    position: fixed;
+    height: 100%;
+    top: 0;
+    right: 0;
+    width: 30px;
+    background: #202020;
+    font-size: 12px;
+    z-index: 9999;
+}
+#mgj_rightbar_blank_div{
+    position: relative;
+    height: 10%;
+}
+.sidebar-item{
+    position: relative;
+    padding: 4px 4px 0;
+    text-align: center;
+}
+.sidebar-item:hover{
+    background-color: #ef2f23;
+    margin-top: -1px;
+}
+.sidebar-item:hover a{
+    padding-top: 1px;
+    display:block;
+}
+.sidebar-item:hover .s-txt{
+    border-bottom: 0px;
+    padding-bottom:13px;
+}
+.s-icon,.p-icon,.purse-icon,.fp-icon{
+    width: 24px;
+    height:24px;
+    background: url(../../img/mogujie_icon.png) no-repeat;
+    display: block;
+    padding: 3px;
+}
+.s-icon{
+    background-position: -4px 0;
+}
+.p-icon{
+    background-position: -4px -30px;
+}
+.purse-icon{
+    background-position: -4px -90px;
+}
+.fp-icon{
+    background-position: -4px -60px;
+}
+.s-txt{
+    color: #FFF;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 12px;
+}
+.sidebar-btt{
+	position: fixed;
+	bottom: 10px;
+	padding-left: 4px;
+	padding-right: 4px;
+    text-align: center;
+    display: none;
+}
+.btt-icon{
+	width: 22px;
+	height: 22px;
+	display: block;
+	background: url(../../img/mogujie_icon.png) no-repeat;
+	background-position: -4px -150px;
+}
+.sidebar-btt a{
+	border-top: 1px solid #CCC;
+	padding-top: 8px;
+	padding-bottom: 4px;
+	color: #FFF;
+	display: block;
+}
+.sidebar-btt:hover {
+	background-color: #EF2F23;
+	margin-top: -1px;
+}
+.sidebar-btt:hover a{
+	margin-top: 1px;
+	border-top: 0;
+} 
+/*这里是右侧侧边栏结束*/
+
+/*这里是头部开始*/
+#header{
+	width: 100%;
+	background: #f2f2f2;
+	border-bottom: 1px solid #dddddd;
+}
+ #header .wrap{
+	width: 1200px;
+	height: 31px;
+	margin: 0 auto;
+	position: relative;
+}
+.header-top{
+	position: absolute;
+	right: 0;
+	top: 9px;
+	color: #333;
+}
+.header-top .s1{
+	display: inline;
+	position: relative;
+	text-align: right;
+	padding-bottom: 10px;
+	margin-right: 15px;
+}
+.header-top .s1 a{
+	position: relative;
+	color: #333;
+}
+.s1-a{
+	margin-left: 5px;
+}
+.s1-img{
+	position: relative;
+	top: -1px;
+}
+.icon-delta1{
+	position: absolute;
+	right: -6px;
+	top: 5px;
+	background: url(../../img/header_icon.png) no-repeat;
+	width: 7px;
+	height: 5px;
+}
+.icon-delta2{
+	position: absolute;
+	right: -10px;
+	top: 5px;
+	background: url(../../img/header_icon.png) no-repeat;
+	width: 7px;
+	height: 5px;
+}
+#dropInfo{
+	border: 1px solid #dddddd;
+	border-top: 0;
+	position: absolute;
+	left: -8px;
+	background: #f2f2f2;
+	display: none;
+	z-index: 9999;
+}
+ .cms1{
+	display: block;
+	width: 100px;
+	height: 28px;
+	line-height: 28px;
+	text-align: center;
+}
+.cms1:hover{
+	background: #ccc;
+}
+/*购物车*/
+#shoppingCart{
+	position: absolute;
+	left: -100px;
+	width: 200px;
+	height: 50px;
+	background: #f2f2f2;
+	border: 1px solid #dddddd;
+	border-top: 0;
+	border-radius: 5%;
+	z-index: 9999;
+	display: none;
+}
+.shoppingCart-contert{
+	padding: 18px 0;
+	text-align: center;
+	color: #999;
+}
+/*这里是头部结束*/
+/*这里是底部开始*/
+#footer{
+	width: 100%;
+	height: 200px;
+	margin-top: 90px;
+	padding-bottom: 20px;
+}
+.foot-wrap{
+	position: relative;
+	width: 100%;
+	height: 160px;
+	background: url(../../img/foot-bg.png) repeat;
+}
+.foot-t{
+	position: relative;
+	width: 1200px;
+	height: 124px;
+	margin: 0 auto;
+	padding: 30px 0 6px 0;
+}
+.foot-t-l{
+	width: 246px;
+	height: 100%;
+}
+.info-logo{
+	display: block;
+	width: 246px;
+	height: 38px;
+}
+.info-text{
+	margin-top: 2px;
+}
+.info-text p{
+	height: 20px;
+	line-height: 20px;
+	color: #999;
+}
+.info-text p a{
+	color: #999;
+}
+.foot-t-r{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 938px;
+	height: 120px;
+}
+.foot-t-r dl{
+	position: relative;
+	float: left;
+	margin-left: 100px;
+}
+.foot-t-r dt{
+	margin-bottom: 12px;
+}
+.foot-t-r dd{
+	margin-bottom: 8px;
+}
+.foot-t-r dl dd a{
+	color: #666;
+}
+.foot-t-r dl dd a:hover{
+	text-decoration: underline;
+}
+.link-safe dd{
+	float: left;
+}
+.link-safe dd a{
+	background: url(../../img/mogujie-foot-icon.png) no-repeat;
+	height: 28px;
+	display: block;
+}
+.foot-t-r .pc{
+	position: absolute;
+	left: -10px;
+	width: 50px;
+	background-position: -486px -50px;
+	
+}
+.foot-t-r .pa{
+	position: absolute;
+	left: 50px;
+	width: 164px;
+	background-position: -240px -50px;
+}
+.foot-t-r .kx{
+	position: absolute;
+	left: 214px;
+	width: 84px;
+	background-position: -400px -50px;
+}
+.foot-b{
+	width: 1200px;
+	height: 29px;
+	margin: 0 auto;
+	margin-top: 10px;
+	border-top: 1px solid #ccc;
+	background-color: #fbfbfb;
+}
+.foot-b{
+	line-height: 40px;
+}
+.foot-b li {
+	float: left;
+	padding: 0 13px;
+}
+.foot-b li a{
+	color: #333;
+}
+.foot-b li a:hover{
+	text-decoration: underline;
+	color: #FF3366;
+}
+/*这里是底部结束*/
+/*搜索框吸顶样式开始*/
+.xiding{
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	top: 0;
+	opacity: 0.8;
+	background: #000000;
+	z-index: 9999;
+	display: none;
+}
+.xiding-wrap{
+	width: 1200px;
+	height: 100%;
+	margin: 0 auto;
+}
+.xiding-logo{
+	display: block;
+	float: left;
+    width: 152px;
+    height: 38px;
+    margin-top: 6px;
+    overflow: hidden;
+    text-indent: -9999em;    
+    background: url(../../img/xiding-logo.png) no-repeat;
+}
+.xiding-nav{
+	position: relative;
+    z-index: 9999;
+    float: left;
+    width: 652px;
+    height: 35px;
+  	opacity: 1;
+   	border-radius: 1%;
+    margin: 6px 0 0 99px;
+    background-color: #fff;
+}
+.xd-sp{
+	width: 70px;
+	height: 35px;
+	cursor: pointer;
+}
+.xd-sp .xd-sp-sp{
+	display: block;
+	padding-left: 11px;
+	width: 70px;
+	line-height: 35px;
+	background-image: url(../../img/xd-bg.png);
+	background-position: 50px -15px;
+}
+
+.xd-sp ol {
+	border: 1px solid #666;
+	background-color: #fff;
+	display: none;
+}
+.xd-sp ol li a{
+	display: block;
+	width: 68px;
+	height: 30px;
+	background: #fff;
+	text-align: center;
+	line-height: 30px;
+	z-index: 9999;
+	color: #000;
+}
+.xd-sp ol li a:hover{
+	background-color: #ccc;
+}
+.xd-form{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 580px;
+	height: 35px;
+	line-height: 35px;
+}
+.xd-form-ss{
+	position: absolute;
+	top: 0;
+	display: inline-block;
+	width: 508px;
+	height: 35px;
+}
+.xd-form-sub{
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: inline-block;
+	width: 68px;
+	height: 35px;
+	cursor: pointer;
+	background-image: url(../../img/xd-bg.png);
+	background-repeat: no-repeat;
+    background-position: 27px -57px;
+    background-color: #FF3366;
+    text-indent: -9999em;
+}
+/*搜索框吸顶样式结束*/

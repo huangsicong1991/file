@@ -1,0 +1,30 @@
+{
+	"g0":{
+		"id": 0,
+		"src": "../img/mogujie_lunbo_8.jpg"
+	},
+	"g1":{
+		"id": 1,
+		"src": "../img/mogujie_lunbo_9.jpg"
+	},
+	"g2":{
+		"id": 2,
+		"src": "../img/mogujie_lunbo_1.jpg"
+	},
+	"g3":{
+		"id": 3,
+		"src": "../img/mogujie_lunbo_10.jpg"
+	},
+	"g4":{
+		"id": 4,
+		"src": "../img/mogujie_lunbo_11.jpg"
+	},
+	"g5":{
+		"id": 5,
+		"src": "../img/mogujie_lunbo_12.jpg"
+	},
+	"g6":{
+		"id": 6,
+		"src": "../img/mogujie_lunbo_13.jpg"
+	}
+}

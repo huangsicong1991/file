@@ -1,0 +1,26 @@
+{
+	"p1": {
+		"src": "../img/sbt1-1.png"
+	},
+	"p2": {
+		"src": "../img/sbt1-2.png"
+	},
+	"p3": {
+		"src": "../img/sbt1-3.jpg"
+	},
+	"p4": {
+		"src": "../img/sbt1-4.jpg"
+	},
+	"p5": {
+		"src": "../img/sbt1-5.jpg"
+	},
+	"p6": {
+		"src": "../img/sbt1-6.jpg"
+	},
+	"p7": {
+		"src": "../img/sbt1-7.jpg"
+	},
+	"p8": {
+		"src": "../img/sbt1-8.jpg"
+	}
+}

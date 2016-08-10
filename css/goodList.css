@@ -1,0 +1,220 @@
+#header-mid{
+	width: 100%;
+}
+#header-midData{
+	margin: 0 auto;
+	width: 1200px;
+	height: 144px;
+	position: relative;
+}
+.logo{
+	width: 250px;
+	height: 60px;
+	display: block;
+	position: absolute;
+	margin-top: 37px;
+	margin-bottom: 20px;
+	background: url(../img/mogujie_logo.png) no-repeat;
+}
+.normal-search-content{
+	width: 100%;
+}
+.top-nav-search{
+	position: relative;
+	top: 40px;
+	left: 350px;
+	width: 502px;
+	height: 59px;
+}
+/*搜索框左部*/
+.search-inner-box{
+	position: relative;
+	width: 500px;
+	height: 33px;
+	border: 1px solid #333;
+}
+.selectbox{
+	width: 70px;
+	height: 34px;
+}
+.selected{
+	position: relative;
+	display: block;
+	padding-left: 12px;
+	line-height: 33px;
+	color: #666;
+	cursor: pointer;
+	background-image: url(../img/selected_icon.png);
+	background-repeat: no-repeat;
+	background-position: 51px -17px;
+	
+}
+.selectbox ol{
+	position: absolute;
+	margin-left: -1px;
+	top: 34px;
+	border: 1px solid #ccc;
+	width: 68px;
+	border-top: 0;
+	background-color: #fff;
+	display: none;
+	z-index: 9999;
+}
+.selectbox ol li a{
+	display: block;
+	width: 68px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	color: #666;	
+}
+.selectbox ol li a:hover{
+	background-color: #F2F2F2;
+}
+.selected-active{
+	color: #333;
+}
+/*搜索框中间*/
+#top-nav-form{
+	position: absolute;
+	left: 70px;
+	top: 0;
+}
+#top-nav-form .ts-txt{
+	padding: 9.5px 0;
+	width: 356px;
+}
+#top-nav-form .ts-btn{
+	width: 70px;
+	height: 33px;
+	background-color: #3a3a3a;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	text-indent: -999em;
+	background-image: url(../img/selected_icon.png);
+	background-position: 27px -57px;
+}
+/*搜索栏下部分*/
+.ts_hotwords{
+	margin-left: -16px;
+    white-space: nowrap;
+    width: 518px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 8px;
+}
+.ts_hotword{
+	color: #999;
+	margin-left: 16px;
+}
+/*右边二维码*/
+.nav-mogu-qrcode{
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 251px;
+	height: 144px;
+	background: url(../img/mogujie_erweima_case.gif) no-repeat;
+}
+.nav-mogu-qrcode img{
+	display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 57px;
+    left: 106px;
+    z-index: 11;
+    width: 83px;
+    height: 83px;
+}
+/*商品列表开始------------------------------------*/
+.mod_list{
+	margin-top: 10px;
+	width: 100%;
+	background-color: #333;
+	height: 30px;
+}
+.clearfix{
+	margin: 0 auto;
+	width: 1200px;
+}
+.clearfix li{
+	float: left;
+	padding: 5px 0;
+	height: 20px;
+	font-size: 14px;
+	line-height: 20px;
+}
+.clearfix li a{
+	color: #fff;
+	padding: 0 30px;
+	border-right: 1px solid #ccc;
+}
+/*商品列表结束----------------------------------*/
+/*商品内容开始----------------------------------*/
+#main{
+	margin-top: 40px;
+	width: 100%;
+}
+.list-wrap{
+	margin: 0 auto;
+	position: relative;
+	border-top: 1px solid #ccc;
+	width: 1200px;
+}
+.content-list{
+	position: relative;
+	width: 1225px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.list{
+	float: left;
+	margin: 10px 18px 20px 0;
+}
+.list a{
+	display: block;
+}
+#footer{
+	clear: both;
+}
+.title{
+	margin-top: 10px;
+	padding: 0 10px 0 5px;
+	width: 205px;
+	height: 16px;
+	font-size: 14px;
+}
+.title .txt{
+	color: #333;
+}
+.goods-info{
+	margin-top: 10px;
+	padding-left: 5px;
+	width: 215px;
+	height: 16px;
+}
+.price{
+	float: left;
+    color: #f36;
+    line-height: 14px;
+    font-weight: 400;
+    font-size: 14px;
+}
+.discount{
+	float: left;
+    background-color: #666;
+    color: #fff;
+    padding: 0 5px;
+    margin-left: 5px;
+}
+.fanNum{
+	background-image: url(../img/goodList-bg.png);
+	background-repeat: no-repeat;
+	background-position: 3px -317px;
+	float: left;
+    margin: 0 0 0 16px;
+    padding-left: 20px;
+    color: #999;
+	
+}

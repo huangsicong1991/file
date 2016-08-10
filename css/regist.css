@@ -1,0 +1,181 @@
+
+.body-wrap{
+	width: 100%;
+}
+.logo-wrap{
+	width: 900px;
+	margin: 0 auto;
+	padding-top: 27px;
+}
+.content{
+	width: 900px;
+	height: 540px;
+}
+.lg_banner{
+	width: 400px;
+    padding: 20px 0 0 40px;
+    float: left;
+    display: inline;
+}
+.banner1{
+	display: inline-block;
+    width: 400px;
+    height: 300px;
+}
+.rg_left{
+	width: 322px;
+    float: right;
+    display: inline;
+    border: 1px solid #dcdcdc;
+    padding: 0 0 30px 38px;
+}
+.regist{
+	width: 360px;
+	height: 57px;
+	margin-left: -38px;
+	display: block;
+}
+.regist h3 {
+	margin: 0;
+	padding: 7px 40px;
+	font-size: 14px;
+    color: #333;
+    height: 42px;
+    line-height: 42px;
+    border-bottom: 1px solid #ccc;
+}
+.rg_mod_box{
+	margin-top: 20px;
+	display: block;
+}
+.error_tip{
+	border: 1px solid #ffd797;
+    height: 30px;
+    line-height: 30px;
+    color: #ff5783;
+    width: 240px;
+    padding-left: 40px;
+    margin-bottom: 9px;
+    background: url(../img/resgist-r.png) no-repeat;
+    background-position-x: 12px;
+    background-position-y: center;
+    display: none;
+}
+.mb{
+	position: relative;
+   padding-bottom: 15px;
+   height: 32px;
+}
+.country_select{
+	float: left;
+    width: 104px;
+    height: 30px;
+    margin-right: 10px;
+    line-height: 1.5;
+    border: 1px solid #c4c4c4;
+    border-radius: 0;
+    color: #333;
+    font-size: 14px;
+    padding: 4px 35px 4px 10px;
+}
+.short_text{
+	float: left;
+	display: block;
+	background: none!important;
+    border: 1px solid #ccc;
+    height: 28px;
+    padding: 0 6px;
+}
+.getCode{
+	float: left;
+	display: block;
+    margin-left: 10px;
+    width: 105px;
+    height: 30px;
+    background: #f55;
+    border-radius: 2px;
+    color: #fff;
+    line-height: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+.sub{
+	display: inline;
+    border: none;
+    width: 285px;
+    height: 30px;
+    background: #ff4066;
+    border-radius: 2px;
+    cursor: pointer;
+    color: #fff;
+}
+.rg_rule{
+	color: #333;
+	font-size: 12px;
+}
+.rg_rule a{
+	color: #333;
+}
+.rg_login a{
+	float: right;
+    margin-right: 40px;
+    color: #666;
+    text-decoration: underline;
+    font-size: 12px;
+}
+/*------------------------尾部开始-------------------------*/
+.regist-foot{
+	width: 100%;
+	height: 222px;
+	margin-top: 50px;
+	background: url(../img/resgist-foot-bg.png) repeat;
+}
+.login_foot_con{
+	width: 900px;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+.fr{
+	float: right;
+}
+.link_list{
+	float: left;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+.link_list li{
+	width: 130px;
+	float: left;
+}
+.link_list h3{
+	margin-bottom: 8px;
+	font-size: 14px;
+	color: #333;
+}
+.link_list li a,p{
+	display: block;
+	color: #666;
+	line-height: 24px;
+}
+.copyright{
+	clear: both;
+    padding-top: 0;
+    margin: 0;
+    text-align: center;
+    color: #999;
+    border-top: 1px dashed #dcdcdc;
+    height: 40px;
+    line-height: 40px;
+}
+
+.qr_code{
+	display: block;
+	width: 180px;
+	height: 76px;
+	background: url(../img/mogujie-app.png) no-repeat;
+}
+.qr_code_box h3{
+	margin-bottom: 5px;
+	font-size: 14px;
+	color: #333;
+}

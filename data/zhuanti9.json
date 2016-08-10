@@ -1,0 +1,50 @@
+{
+	"p1": {
+		"src": "../img/sbt9-1.jpg"
+	},
+	"p2": {
+		"src": "../img/CASIO.png"
+	},
+	"p3": {
+		"src": "../img/MIDEA.png"
+	},
+	"p4": {
+		"src": "../img/GRACE.jpg"
+	},
+	"p5": {
+		"src": "../img/PHILIPS.png"
+	},
+	"p6": {
+		"src": "../img/okomoto.jpg"
+	},
+	"p7": {
+		"src": "../img/LENA.png"
+	},
+	"p8": {
+		"src": "../img/NTORI.png"
+	},
+	"p9": {
+		"src": "../img/JOYOUNG.png"
+	},
+	"p10": {
+		"src": "../img/sbt9-2.jpg"
+	},
+	"p11": {
+		"src": "../img/sbt9-3.png"
+	},
+	"p12": {
+		"src": "../img/sbt9-4.png"
+	},
+	"p13": {
+		"src": "../img/sbt9-5.png"
+	},
+	"p14": {
+		"src": "../img/sbt9-6.png"
+	},
+	"p15": {
+		"src": "../img/sbt9-7.png"
+	},
+	"p16": {
+		"src": "../img/sbt9-8.png"
+	}
+}

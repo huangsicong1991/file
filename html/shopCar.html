@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>我的购物车</title>
+	<link rel="icon" href="http://s16.mogucdn.com/new1/v1/bmisc/3ce382db3c8aaca5d07bd36711e77134/171169993508.ico" type="image/x-icon"/>
+	<link rel="stylesheet" href="../css/common/base.css">
+	<link rel="stylesheet" href="../css/common/common.css">
+	<link rel="stylesheet" href="../css/shopCar.css" />
+</head>
+<body>
+	<!-- 这里是右侧侧边栏开始 -->
+	<div class="mgj_rightbar"></div>
+	<!--右侧侧边栏结束-->
+	<!--这里是头部开始-->
+	<div id="header"></div>
+	<!--这里是头部结束-->
+	<!--这里是购物车流程开始-->
+	<div id="shop-flow-wrap">
+		<div class="shop-flow">
+			<div class="flow-logo"></div>
+			<div class="flow">
+				<div class="flow-wrap">
+					<div class="md-process-sd"></div>
+					<i class="md-process-i md-process-i1">
+						1
+						<span class="md-process-tip">购物车</span>
+					</i>
+					<i class="md-process-i md-process-i2">
+						2
+						<span class="md-process-tip">确认订单</span>
+					</i>
+					<i class="md-process-i md-process-i3">
+						3
+						<span class="md-process-tip">支付</span>
+					</i>
+					<i class="md-process-i md-process-i4">
+						<img src="../img/duigou.png"/>
+						<span class="md-process-tip">完成</span>
+					</i>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--这里是购物车流程结束-->
+	<!--购物车内容开始-->
+	<div class="goods-wrap">
+		<div class="goods">
+			<ul class="goods-list">
+				<li class="mr1">
+					全部商品
+					<span class="allgoods">(0)</span>
+				</li>
+				<li>|</li>
+				<li>
+					优惠
+					<span>(0)</span>
+				</li>
+				<li>|</li>
+				<li>
+					库存紧张
+					<span>(0)</span>
+				</li>
+			</ul>
+		</div>
+		<div class="goods-cont">
+			<div class="cont-list">
+				<div class="wrap-list">
+					<span class="sp1">
+						<input class="quanxuan" type="checkbox" />
+						全选
+					</span>
+					<span class="sp2">商品</span>
+					<span class="sp3">商品信息</span>
+					<span class="sp4">单价(元)</span>
+					<span class="sp5">数量</span>
+					<span class="sp6">小计(元)</span>
+					<span class="sp7">操作</span>
+				</div>
+			</div>
+			<div class="goods-goods">
+				<div class="hint">
+					您的购物车还没有任何商品，赶紧去逛逛吧
+					<a target="_blank" href="index.html">蘑菇街</a>
+				</div>
+				<div class="shop-wrap"></div>
+			</div>
+			<div class="clearing">
+				<div class="clearing-l">
+					<input class="quanxuan" type="checkbox" />
+					<span>全选</span>
+					<a class="del-all">全部删除</a>
+					<a class="continueShooping" href="goodList.html">继续购物</a>
+				</div>
+				<div class="clearing-r">
+					<div class="clearing-r-l">
+						<span>共有</span>
+						<span class="sum">0</span>
+						<span>件商品，总计：</span>
+						<span class="sum-money">￥0.00</span>
+					</div>
+					<div class="pay">去付款</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--购物车内容结束-->
+	<div id="footer">
+		<div class="footer-txt">
+			蘑菇街 | 加入开放平台 © 2016 Mogujie.com,All Rights Reserved.
+		</div>
+		<div class="icons"></div>
+	</div>
+	<script src="../libs/jquery-1.12.3.js"></script>
+	<script src="../libs/jquery.cookie.js"></script>
+	<script src="../js/login.js"></script>
+	<script src="../js/shopCar.js"></script>
+</body>
+</html>
